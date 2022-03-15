@@ -15,7 +15,7 @@ I wrote this program for the Design of Algorithms subject in Semester 1 of first
 **example** - here is a snapshot of what this program can achieve:
 
 <p align="center">
-  <img src="C-Projects/Text-Formatter/example.png"  width="300" >
+  <img src="C-Projects/Text-Formatter/example.png" >
 </p>
 
 **how to use**: navigate to source directory and run "gcc -o app TextFormatter.c", then run the program, feeding in any of the input files and creating an output: "app < stage1.txt > out.txt"
